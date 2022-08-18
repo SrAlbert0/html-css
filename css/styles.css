@@ -42,6 +42,7 @@ left: 150px;
 
 .skills{
   position: relative;
+  height: 600px;
 
 }
 
@@ -49,6 +50,7 @@ left: 150px;
 /*  text-align: left;*/
   position: relative;
   width: 50%;
+  height: 512px;
 }
 
 .lista{
@@ -67,7 +69,7 @@ left: 150px;
 .skill-row2{
   /* text-align: right; */
   position: absolute;
-  top: 47.11px;
+  top: 50px;
   right: 0;
   width: 50%;
 
